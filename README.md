@@ -1,9 +1,10 @@
+# EASYSHIP - WooCommerce Gem originally published by WooTheme/wc-api-ruby
+
+This gem exist due to dependencies used on existing projects.  This will fix a bug that oauth users have when adding a key.
+
 # WooCommerce API - Ruby Client
 
 A Ruby wrapper for the WooCommerce REST API. Easily interact with the WooCommerce REST API using this library.
-
-[![build status](https://secure.travis-ci.org/woothemes/wc-api-ruby.svg)](http://travis-ci.org/woothemes/wc-api-ruby)
-[![gem version](https://badge.fury.io/rb/woocommerce_api.svg)](https://rubygems.org/gems/woocommerce_api)
 
 ## Installation
 
